@@ -1,3 +1,22 @@
+# NEW FEATURES:
+
+## v0.4.0 [download](https://github.com/kkzi/Nvy/releases/download/0.4.0/Nvy.exe)
+1. Disable input method when start nvy.
+2. Disable input method on normal mode.
+3. Restore input method on input mode.
+4. *PERSONAL*: load visual studio env.
+
+
+
+   
+
+
+<br/>
+<br/>
+<br/>
+
+# [ORIGINAL REPO](https://github.com/RMichelsen/Nvy) README:
+
 # Nvy
 
 Nvy is a minimal [Neovim](https://neovim.io/) client for Windows written in C++.
